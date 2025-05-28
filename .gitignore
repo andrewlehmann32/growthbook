@@ -101,7 +101,6 @@ ENV/
 .mypy_cache/
 
 # IDE settings
-.vscode/
 
 # Generated version file
 growthbook/_version.py
